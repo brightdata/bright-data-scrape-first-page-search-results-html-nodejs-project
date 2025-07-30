@@ -1,0 +1,26 @@
+{
+  "name": "bright-data-scrape-first-page-search-results-html-nodejs-project",
+  "version": "1.0.0",
+  "description": "Fetch first-page search results HTML by URL (Google/Bing) using Bright Data Scraper API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bright-data",
+    "scraper",
+    "google",
+    "bing",
+    "search-results",
+    "html"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+} 
