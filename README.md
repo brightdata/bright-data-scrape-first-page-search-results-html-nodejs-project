@@ -2,7 +2,6 @@
 
 This project provides a simple Node.js boilerplate for fetching first-page search results HTML from Google and Bing using the Bright Data Web Scraper API.
 
-[Edit in StackBlitz editor ⚡️](https://stackblitz.com/~/github.com/brightdata/bright-data-scrape-first-page-search-results-html-nodejs-project)
 ---
 
 ## Table of Contents
